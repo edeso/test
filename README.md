@@ -7,4 +7,4 @@ some more
 
 even what
 
-foo bar
+foo bar baz
